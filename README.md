@@ -6,6 +6,6 @@
 Google Colab
 
 
-3-1 : k-최근접이웃 알고리즘 [Colab](https://colab.research.google.com/drive/1aDwGCRY4uWwtp26FIrjLN2p_E9kUAv1T#scrollTo=etwk64-uzrpf) <br>
-3-2 : 선형회귀, 다항회귀  [Colab](https://colab.research.google.com/drive/1Tz4xBxEoFMJdisqS-blClW-DKa18Iija#scrollTo=a14uN4_m1Lu5) <br>
-3-3 : 다중회귀,특성공학과 규제 [Colab](https://colab.research.google.com/drive/1guN9W-8e0epLCuVw9D3I8aFMPjzzl18E#scrollTo=FWQffgbyOsUc) <br>
+3-1 : k-최근접이웃 알고리즘 [[Colab]](https://colab.research.google.com/drive/1aDwGCRY4uWwtp26FIrjLN2p_E9kUAv1T#scrollTo=etwk64-uzrpf) <br>
+3-2 : 선형회귀, 다항회귀  [[Colab]](https://colab.research.google.com/drive/1Tz4xBxEoFMJdisqS-blClW-DKa18Iija#scrollTo=a14uN4_m1Lu5) <br>
+3-3 : 다중회귀,특성공학과 규제 [[Colab]](https://colab.research.google.com/drive/1guN9W-8e0epLCuVw9D3I8aFMPjzzl18E#scrollTo=FWQffgbyOsUc) <br>
